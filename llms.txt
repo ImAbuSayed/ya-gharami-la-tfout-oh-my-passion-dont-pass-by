@@ -13,7 +13,7 @@
 | Lyric Writing Date | April 26, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ya-gharami-la-tfout-oh-my-passion-dont-pass-by/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Get Permission to Use Ya Gharami La Tfout – Oh My Passion, Don't Pass By](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Get a Licensing Quote for Ya Gharami La Tfout – Oh My Passion, Don't Pass By](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
