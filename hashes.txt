@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ya Gharami La Tfout – Oh My Passion, Don't Pass By
+
+This log tracks the cryptographic history and versioning for the song **Ya Gharami La Tfout – Oh My Passion, Don't Pass By** (ya-gharami-la-tfout-oh-my-passion-dont-pass-by).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T08:50:46.035705 | `v1` | `cdfa0d216acd2d1464678cfcf7bd8c043128fda06be62adce26b96ec20aa225c` | `e6d36f356247a34c161327173cb7fc8555df12cf234fa9baddb2b211789be352` | `2026-05-09_ya-gharami-la-tfout-oh-my-passion-dont-pass-by-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
